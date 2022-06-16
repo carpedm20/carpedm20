@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=carpedm20)
+
 https://user-images.githubusercontent.com/3346407/173203912-4ea5d943-f45b-4545-9642-07541803b4a1.mp4
 
 Building [**VIRTU**](https://virtu.fun) for the next billion avatar species @ [**Symbiote AI**](https://symbiote-ai.com)
@@ -13,8 +15,6 @@ Building [**VIRTU**](https://virtu.fun) for the next billion avatar species @ [*
 
 ### 🤖 Profile
 **Taehoon Kim  /  @carpedm20**
-
-![](https://github-readme-stats.vercel.app/api?username=carpedm20)
 
   - **Symbiote AI** (2022 ~): [**VIRTU**](https://symbiote.super.site)
   - **OpenAI** (2018 ~ 2020): <a href="https://openai.com/api/">GPT-3</a>, <a href="https://openai.com/blog/quantifying-generalization-in-reinforcement-learning/">Reinforcement Learning</a>
