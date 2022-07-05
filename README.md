@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/3346407/173203912-4ea5d943-f45b-4545-9642-07541803b4a1.mp4
 
-Building [**VIRTU**](https://virtu.fun) for the next billion avatar species @ [**Symbiote AI**](https://symbiote-ai.com)
+Building [**VIRTU**](https://symbiote.super.site) for the next billion avatar species @ [**Symbiote AI**](https://symbiote.super.site)
 
 ```
 70억 인류 모두가
