@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" href="https://carpedm30.notion.site/star" style="text-decoration:none">👗 <b>Jam on GenAI app with us!</b> 👗</a></p>
+<p align="center"><a target="_blank" href="https://carpedm30.notion.site/love" style="text-decoration:none">👗 <b>Jam on GenAI app with us!</b> 👗</a></p>
 
 <p align="center"><a target="_blank" href="https://carpedm30.notion.site/AI-Compiler-Study-0bcecb3f91c042d28bf8eeab1725c6c4" style="text-decoration:none">♟️ <b>AI Compiler Study</b> ♟️</a></p>
 
