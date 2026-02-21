@@ -2,4 +2,4 @@
 
 <p align="center"><a target="_blank" href="https://calendly.com/carpedm20" style="text-decoration:none"><b>30 min chat</b></a></p>
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carpedm20/carpedm20/refs/heads/main/pic.jpeg"/></p>
